@@ -205,6 +205,7 @@ Fighter, Rogue, Barbarian, Ranger, Paladin, Bard, Sorcerer, Wizard, Cleric, Monk
 | **Necrotic**  |                                                         |                                                          |
 | **Radiant**   |                                                         |                                                          |
 | **Force**     |                                                         |                                                          |
+|               |                                                         |                                                          |
 
 ---
 
