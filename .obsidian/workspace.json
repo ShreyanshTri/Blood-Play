@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
+                "file": "Rules/Environmental Effects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rigel Corvus"
+              "title": "Environmental Effects"
             }
           },
           {
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200
   },
   "right": {
     "id": "57d15f059d52f47b",
@@ -189,12 +189,40 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "b0182ac4abb99533",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_3a9b393b3adb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 5,
+                    "year": 11997
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_e9e8c9cbd9ab"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -207,38 +235,44 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "68f09a359efd628a",
+  "active": "4041a54b4209039c",
   "lastOpenFiles": [
-    "Rules/Environmental Effects.md",
-    "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
-    "Prompts/Prompt4.md",
-    "Rules/Armor And Equipment.md",
-    "Rules/Elemental Mechanics.md",
-    "Setting Of The Campaign.md",
-    "Rules/Travel.md",
-    "Rules/Stealth.md",
-    "Rules/Take Cover.md",
-    "Rules/Standard Aids.md",
-    "Rules/Scale.md",
-    "Rules/Resting.md",
-    "Rules/leap.md",
-    "Rules/Hold Action.md",
-    "Rules/Grapple.md",
-    "Rules/Fatigues.md",
-    "Rules/Environmental.md",
-    "Rules/Dodge.md",
-    "Rules/Concentration and focus.md",
-    "Rules/Block.md",
-    "Rules/Augmentation.md",
-    "Rules/Assists.md",
-    "Rules/Aim.md",
-    "Rules/Ailments.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Union/Dwarven kingdom of Ayaman/Villages/Village of Exodia.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Union/Dwarven kingdom of Ayaman/Special Locations/Valley of Odakar.md",
+    "05_Assets/Images/Locations/Aridonia_New.jpg",
+    "05_Assets/Images/Locations/Vivestera_World_New.jpg",
+    "03_Compendium/Spellbook/All Spells/Aid.md",
+    "03_Compendium/Spellbook/All Spells/Animate_Objects.md",
+    "03_Compendium/Spellbook/All Spells/AntipathySympathy.md",
+    "03_Compendium/Spellbook/All Spells/Arcane_Eye.md",
+    "03_Compendium/Spellbook/All Spells/Arcane_Ward.md",
+    "03_Compendium/Spellbook/All Spells/Bane.md",
+    "03_Compendium/Spellbook/All Spells/Beacon_of_Hope.md",
+    "03_Compendium/Spellbook/All Spells/Bestow_Curse.md",
+    "03_Compendium/Spellbook/All Spells/Burning_Hands.md",
+    "03_Compendium/Spellbook/All Spells/Blur.md",
+    "03_Compendium/Spellbook/All Spells/Calm_Emotions.md",
+    "03_Compendium/Spellbook/All Spells/Chain_Reaction.md",
+    "03_Compendium/Spellbook/All Spells/Charm_Person.md",
+    "03_Compendium/Spellbook/All Spells/Clairvoyance.md",
+    "03_Compendium/Spellbook/All Spells/Clone.md",
+    "03_Compendium/Spellbook/All Spells/Cloud_of_Daggers.md",
+    "03_Compendium/Spellbook/All Spells/Color_Spray.md",
+    "03_Compendium/Spellbook/All Spells/Command.md",
+    "03_Compendium/Spellbook/All Spells/Conjure_Minor_Elementals.md",
+    "03_Compendium/Spellbook/All Spells/Conjure_Celestial.md",
+    "03_Compendium/Spellbook/All Spells/Contagion.md",
+    "03_Compendium/Spellbook/All Spells/Control_Water.md",
+    "03_Compendium/Spellbook/All Spells/Cursed Speech.md",
+    "03_Compendium/Spellbook/All Spells/Death_Ward.md",
+    "03_Compendium/Spellbook/All Spells/flora_cleanup.ps1",
+    "01_Characters/PCs/Kraven Goroth",
+    "Untitled.base",
     "Rules",
-    "Reference_Material/Minecraft Build (Rust).md",
-    "Changelog.md",
     "03_Compendium/Main"
   ]
 }
